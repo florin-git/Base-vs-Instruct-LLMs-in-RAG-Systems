@@ -1,0 +1,10 @@
+tqdm
+numpy
+pandas
+transformers==4.39
+ijson
+accelerate
+einops
+bitsandbytes
+langchain
+faiss-gpu
